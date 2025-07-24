@@ -1,0 +1,573 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6d1929cf-8167-4038-9c8d-a941d3ab1e89")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 114.3 100.33) (xy 127 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04122529-0900-4788-956e-88d207576119")
+	)
+	(wire
+		(pts
+			(xy 60.96 107.95) (xy 87.63 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "168a30ac-201b-42d9-bee2-2f80abe77621")
+	)
+	(wire
+		(pts
+			(xy 114.3 92.71) (xy 127 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f76de90-6676-40be-be2e-47eafba0e738")
+	)
+	(wire
+		(pts
+			(xy 114.3 96.52) (xy 127 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32531b3e-3534-40d5-8a78-e1e7cc48b023")
+	)
+	(wire
+		(pts
+			(xy 60.96 115.57) (xy 87.63 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f46bbd9-cae9-4093-a41c-ba41c0c57ecd")
+	)
+	(wire
+		(pts
+			(xy 60.96 110.49) (xy 87.63 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40510783-6f5e-49fc-8f67-69e445c7eb5d")
+	)
+	(wire
+		(pts
+			(xy 60.96 113.03) (xy 87.63 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89e75b12-c16c-4a3a-b92f-08a3cb34aead")
+	)
+	(wire
+		(pts
+			(xy 114.3 104.14) (xy 127 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "906a4683-8b3f-45e7-ba85-9967ce7c19ff")
+	)
+	(wire
+		(pts
+			(xy 114.3 85.09) (xy 127 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91c6405d-808c-4f96-9624-516d492035a6")
+	)
+	(wire
+		(pts
+			(xy 60.96 105.41) (xy 87.63 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2f3121c-788f-416c-aa6e-dd0e90a88761")
+	)
+	(wire
+		(pts
+			(xy 114.3 88.9) (xy 127 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eff28047-b7e0-4d61-a212-89f1913369f7")
+	)
+	(sheet
+		(at 127 83.82)
+		(size 19.05 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "24b26f7c-a234-4678-9b9e-623943949632")
+		(property "Sheetname" "RelayDriver"
+			(at 127 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "relay_driver.kicad_sch"
+			(at 127 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RELAY1" input
+			(at 127 85.09 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "560385e1-b4c5-4a8e-9629-c1bc8c56a798")
+		)
+		(pin "RELAY4" input
+			(at 127 96.52 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fa3c6e63-db1b-487a-8402-7d23f1790c84")
+		)
+		(pin "RELAY6" input
+			(at 127 104.14 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "23547d27-5d6c-4857-a240-400846ce0a26")
+		)
+		(pin "RELAY5" input
+			(at 127 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "622306dd-84e2-4ada-9b55-e6985309f641")
+		)
+		(pin "RELAY2" input
+			(at 127 88.9 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1bf4fb81-b201-4518-8111-52cffeb12acd")
+		)
+		(pin "RELAY3" input
+			(at 127 92.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f55dd82f-e083-4f75-929c-aedd17c7cfe4")
+		)
+		(instances
+			(project "M56Controller"
+				(path "/6d1929cf-8167-4038-9c8d-a941d3ab1e89"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 41.91)
+		(size 15.24 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "28db4ea8-57d3-4026-b2d1-d4d1de0b75c3")
+		(property "Sheetname" "Display"
+			(at 137.16 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display_module.kicad_sch"
+			(at 137.16 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "M56Controller"
+				(path "/6d1929cf-8167-4038-9c8d-a941d3ab1e89"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 104.14)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "35fd303b-1e40-4c15-b1c4-9ba3b665c098")
+		(property "Sheetname" "RPI_CM4"
+			(at 35.56 103.4284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CM4.kicad_sch"
+			(at 35.56 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CM4_DISABLE" input
+			(at 60.96 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "61151adb-01b4-45cf-8588-6245b1c98552")
+		)
+		(pin "CM4_CPU_RESET" input
+			(at 60.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4ddf2733-09c9-4ac6-bb4b-a24837b14718")
+		)
+		(pin "CPU_ALIVE" input
+			(at 60.96 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "38756488-4829-4483-9f20-98e522f25745")
+		)
+		(pin "CM4_SCL" input
+			(at 60.96 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "86860f7a-5420-461e-8604-338cbc13c4d6")
+		)
+		(pin "CM4_SDA" input
+			(at 60.96 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ee11db69-bd8d-4d2d-ab80-008eb83db4e6")
+		)
+		(instances
+			(project "M56Controller"
+				(path "/6d1929cf-8167-4038-9c8d-a941d3ab1e89"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 58.42)
+		(size 16.51 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3a0fae32-f004-4cad-b014-dda7811fa5d7")
+		(property "Sheetname" "Power Supply"
+			(at 137.16 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supply.kicad_sch"
+			(at 137.16 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "M56Controller"
+				(path "/6d1929cf-8167-4038-9c8d-a941d3ab1e89"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 83.82)
+		(size 26.67 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "86dba43d-2768-49c9-9a06-9d3eeb3def75")
+		(property "Sheetname" "Controller"
+			(at 87.63 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Controller.kicad_sch"
+			(at 87.63 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RELAY2" input
+			(at 114.3 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7d5fe4cc-39a6-48df-ac14-8e2776814c61")
+		)
+		(pin "RELAY1" input
+			(at 114.3 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "07c006a0-619e-499d-9fc6-38ad805f8ba8")
+		)
+		(pin "RELAY3" input
+			(at 114.3 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "97746751-8040-4021-aee8-0f89a2e8748f")
+		)
+		(pin "RELAY5" input
+			(at 114.3 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8cf6396c-5357-4380-9585-85ca613426b6")
+		)
+		(pin "RELAY4" input
+			(at 114.3 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a2143ecc-5182-41c8-a0da-2afe1a6d4c32")
+		)
+		(pin "RELAY6" input
+			(at 114.3 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bc8f1acf-27a1-40e4-8ac1-d62e84f489e2")
+		)
+		(pin "MCU_SCK" input
+			(at 87.63 85.09 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f1fbc344-8b74-47fc-80c3-49415919a26d")
+		)
+		(pin "MCU_MOSI" input
+			(at 87.63 88.9 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0b11721b-2798-4a4a-adff-24f1d9c957b7")
+		)
+		(pin "MCU_MISO" input
+			(at 87.63 92.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "599773d6-bf13-4a63-a533-5df19275a98a")
+		)
+		(pin "MCU_SDA" input
+			(at 87.63 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2f3227f3-d236-4d88-be2f-731837dc64c0")
+		)
+		(pin "MCU_RESET" input
+			(at 87.63 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9068f8c0-aee7-4bbd-b767-34199099ff1e")
+		)
+		(pin "MCU_SCL" input
+			(at 87.63 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4af198c5-eed5-4900-868e-fa30a55e8eb6")
+		)
+		(pin "CM4_DISABLE" input
+			(at 87.63 105.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "54e41b44-4e73-490c-8f14-0dbafaacd861")
+		)
+		(pin "CM4_CPU_RESET" input
+			(at 87.63 107.95 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7ae013a0-36d4-4563-b4db-80da1c8e2399")
+		)
+		(pin "CM4_ALIVE" input
+			(at 87.63 110.49 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1c435a9b-8b07-4193-9147-8893e8323b80")
+		)
+		(instances
+			(project "M56Controller"
+				(path "/6d1929cf-8167-4038-9c8d-a941d3ab1e89"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
