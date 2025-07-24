@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"ac7727fe75b0cf6d","type":"text","text":"PCB","x":260,"y":-180,"width":541,"height":419},
+		{"id":"0967046c80559560","type":"text","text":"10A Board regulator","x":-340,"y":-145,"width":250,"height":50},
+		{"id":"1eed6a006dc953ea","type":"text","text":"SOLAR","x":-460,"y":-620,"width":125,"height":50},
+		{"id":"3555a3ca6a8d133b","type":"text","text":"24V Batteries","x":-960,"y":-480,"width":250,"height":60},
+		{"id":"f79acd373c7907ab","type":"text","text":"Charge Circuit","x":-580,"y":-480,"width":250,"height":100},
+		{"id":"3e04e9e8912647ed","type":"text","text":"PCB","x":-580,"y":-380,"width":250,"height":50},
+		{"id":"3841605e30b3fa35","type":"text","text":"500w inverter","x":-800,"y":-155,"width":250,"height":60},
+		{"id":"a1a3e3c4ce0b3ebd","type":"text","text":"24V out","x":-960,"y":-330,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5995960010ef7e54","fromNode":"3e04e9e8912647ed","fromSide":"bottom","toNode":"0967046c80559560","toSide":"top"},
+		{"id":"1e40c82739896039","fromNode":"3e04e9e8912647ed","fromSide":"bottom","toNode":"3841605e30b3fa35","toSide":"top"},
+		{"id":"6c06eb0bf43d86fa","fromNode":"1eed6a006dc953ea","fromSide":"bottom","toNode":"f79acd373c7907ab","toSide":"top"},
+		{"id":"607482f5a3be2a82","fromNode":"3555a3ca6a8d133b","fromSide":"right","toNode":"f79acd373c7907ab","toSide":"left"},
+		{"id":"fe83dc6dad518b16","fromNode":"0967046c80559560","fromSide":"right","toNode":"3e04e9e8912647ed","toSide":"right"},
+		{"id":"73e54f794058ffa2","fromNode":"3e04e9e8912647ed","fromSide":"left","toNode":"a1a3e3c4ce0b3ebd","toSide":"right"}
+	]
+}

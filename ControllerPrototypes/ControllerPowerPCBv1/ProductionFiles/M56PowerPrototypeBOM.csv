@@ -1,0 +1,12 @@
+Designator,Comment,Footprint,DNP
+C2,0.1uF,Capacitor_SMD:C_1206_3216Metric,
+C5,0.1uF,Capacitor_SMD:C_0805_2012Metric,
+C3,100nF,Capacitor_SMD:C_0603_1608Metric,
+C1,0.22uF,Capacitor_SMD:C_1206_3216Metric,
+C4,10uF,Capacitor_SMD:C_0603_1608Metric,
+R1,10E,Resistor_SMD:R_0805_2012Metric,
+R4,2k,Resistor_SMD:R_0805_2012Metric,
+R2,10k,Resistor_SMD:R_0805_2012Metric,
+R3,10k,Resistor_SMD:R_0805_2012Metric,
+U1,L7805,Package_TO_SOT_SMD:TO-263-3_TabPin2,
+U3,UCC27516DRSR,UCC27516:UCC27516,

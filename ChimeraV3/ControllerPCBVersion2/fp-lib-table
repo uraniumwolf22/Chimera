@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AmazonPowerSupply")(type "KiCad")(uri "${KIPRJMOD}/AmazonPowerSupply.pretty")(options "")(descr ""))
+  (lib (name "esp8266")(type "KiCad")(uri "${KIPRJMOD}/esp8266.pretty")(options "")(descr ""))
+  (lib (name "RPi_Compute_Module_4")(type "KiCad")(uri "C:/Users/logan/Downloads/RPi-CM4-Kicad-master/RPi-CM4-Kicad-master/RPi_Compute_Module_4.pretty")(options "")(descr ""))
+  (lib (name "FFC2B35-22-G")(type "KiCad")(uri "${KIPRJMOD}/FFC2B35-22-G.pretty")(options "")(descr ""))
+)

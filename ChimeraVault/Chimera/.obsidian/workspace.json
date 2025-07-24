@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "73abc18623fcf367",
+    "type": "split",
+    "children": [
+      {
+        "id": "714b5775c2f78932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d2ce940ac3f8aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ControllerDesign/Main Panel Switches and indicators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main Panel Switches and indicators"
+            }
+          },
+          {
+            "id": "68795e97326296c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ControllerDesign/Habitat Controller UI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Habitat Controller UI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b893b1e6d569ded6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d526312e36d6434c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7306fb3f3c28ab6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "158b44af220588ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0fdc26591fde16a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0916feafa0da497",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6db8d8b3454b535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4611cae79a919c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TruckReferences/Truck Schematic.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Truck Schematic"
+            }
+          },
+          {
+            "id": "60f27fd24302d3c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TruckReferences/Truck Schematic.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Truck Schematic"
+            }
+          },
+          {
+            "id": "96539af68e40c2c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25ee3b3b6d4f17a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TruckReferences/Truck Schematic.jpg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Truck Schematic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68795e97326296c8",
+  "lastOpenFiles": [
+    "ControllerDesign/Main Panel Switches and indicators.md",
+    "ControllerDesign/Habitat Controller UI.md",
+    "ControllerDesign/Power prototype PCB.md",
+    "ControllerDesign/References.md",
+    "ControllerDesign/System Controller.md",
+    "ControllerDesign/Engine Interface Design.md",
+    "ControllerDesign/General Controller Notes.md",
+    "HabitatSystems/Untitled.md",
+    "HabitatSystems",
+    "Things that I need to buy.md",
+    "Stock orders.md",
+    "Connector Definitions.md",
+    "Checklist.md",
+    "TruckReferences/DimmerSwitch.jpg",
+    "Main Battery Interface/PWM85_5v_Schematic.pdf",
+    "ControllerDesign/PowerFlow.canvas",
+    "TruckReferences/Truck Schematic.jpg",
+    "Images/Pasted image 20250131221148.png",
+    "TruckReferences/TM 9-2320-212-10 Operator Manual.pdf",
+    "TruckReferences/TM 9-1840A Engine & Clutch Manual for Dodge.pdf",
+    "TruckReferences/PartsCrossList.pdf",
+    "TruckReferences/MasterCylinderExplodedView.webp",
+    "Main Panel Switches and indicators.md",
+    "Truck Main Interface/PWM85_5v_Schematic.pdf",
+    "TruckReferences/FlasherUnit.jpg",
+    "Truck Main Interface",
+    "TruckReferences/TM9-8030 Operation and Organizational Maintenance.pdf",
+    "TruckReferences/Truck Schematic 1.jpg",
+    "TruckReferences/FlasherUnit.jpg.crdownload",
+    "Images/Pasted image 20250316164310.png",
+    "Welcome.md",
+    "ControllerDesign",
+    "DodgeM37/MasterExplodedView.webp",
+    "DodgeM37/DimmerSwitch.jpg",
+    "DodgeM37/12021890693_f7e5ef8ea8_o.jpg"
+  ]
+}

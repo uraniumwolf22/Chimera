@@ -1,0 +1,12 @@
+Designator,Package,Mid X,Mid Y,Rotation,Layer
+C1,C_1206_3216Metric,100,-50,180,top
+C2,C_1206_3216Metric,94.5,-48.4,0,top
+C3,C_0603_1608Metric,91,-42.375,-90,top
+C4,C_0603_1608Metric,92.5,-42.3,-90,top
+C5,C_0805_2012Metric,78,-49,0,top
+R1,R_0805_2012Metric,91.6,-38.9,0,top
+R2,R_0805_2012Metric,91.5875,-36.7,0,top
+R3,R_0805_2012Metric,70,-51.4,90,top
+R4,R_0805_2012Metric,70.9,-48.6,0,top
+U1,TO-263-3_TabPin2,95.96,-61.45,-90,top
+U3,UCC27516,88.349999,-41.824998,90,top

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IRFZ44NP")(type "KiCad")(uri "${KIPRJMOD}/IRFZ44NP.kicad_sym")(options "")(descr ""))
+  (lib (name "IRFZ44NPBF")(type "KiCad")(uri "${KIPRJMOD}/IRFZ44NPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "UCC27516")(type "KiCad")(uri "${KIPRJMOD}/UCC27516.kicad_sym")(options "")(descr ""))
+  (lib (name "HighCurrentConnectors")(type "KiCad")(uri "${KIPRJMOD}/HighCurrentConnectors.kicad_sym")(options "")(descr ""))
+)
